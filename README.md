@@ -17,3 +17,6 @@ Resources to add:
 * Cori reproducible workflows github pages and CoreR
 * Henry GitHub slides tutorial 
 * Jenny Bryan slides and tutorials, good enough practices for scientific computing
+
+Contact:
+* cori.lopazanski@duke.edu, william.cioffi@duke.edu, henry.sun@duke.edu 
